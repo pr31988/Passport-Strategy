@@ -1,1 +1,1 @@
-# Passport-Strategy
+Passport is authentication middleware. Allow login for a user using passport-facebook strategy. after user authentication using facebook API(axios);if its first time loging details are stored in SQLite. second time onwards user logs-in; details are fetched from database.
